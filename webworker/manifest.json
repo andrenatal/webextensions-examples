@@ -1,10 +1,10 @@
 {
 
-  "description": "Forget it!",
+  "description": "Web Worker fetcher",
   "manifest_version": 2,
-  "name": "forget-it",
+  "name": "webworker",
   "version": "2.0",
-  "homepage_url": "https://github.com/mdn/webextensions-examples/tree/master/forget-it",
+  "homepage_url": "https://github.com/andrenatal/webextensions-examples/tree/master/webworker",
   "icons": {
     "48": "icons/trash.svg"
   },
@@ -14,7 +14,7 @@
   },
 
   "browser_action": {
-    "default_icon": "icons/trash.svg",
+    "default_icon": "icons/page-48.png",
     "default_title": "Forget it!"
   },
 
